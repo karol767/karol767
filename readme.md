@@ -8,3 +8,5 @@ Highly motivated and detail-oriented data scientist with a strong passion for ex
 # 📊 GitHub Stats:
 ![](http://github-readme-streak-stats.herokuapp.com?user=karol767)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karol767&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=karol767&icon=0&color=0)](https://visitcount.itsvg.in)
