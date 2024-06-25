@@ -9,3 +9,7 @@ Highly motivated and detail-oriented data scientist with a strong passion for ex
 [![](https://visitcount.itsvg.in/api?id=karol767&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karol767\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+### 7/23/2023   I'm here.
+<a href="https://github.com/karol767/Here-I-am">Check More</a>
+![Backend Roadmap](https://github.com/karol767/Here-I-am/blob/main/img/Data%20Scientist-2023-07-23.jpg?raw=true)
