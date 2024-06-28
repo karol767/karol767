@@ -9,7 +9,7 @@ Highly motivated and detail-oriented data scientist with a strong passion for ex
 [![](https://visitcount.itsvg.in/api?id=karol767&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karol767" alt="Top Langs">
 </a>
   <img src="https://github-readme-stats.vercel.app/api?username=karol767&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Anurag's GitHub stats">
 </div>
