@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated and detail-oriented data scientist with a strong passion for extracting insights from complex datasets, using my skills in machine learning, statistics, and programming languages such as Python and R to drive business growth and improve decision-making processes. <br>With a strong foundation in mathematics and computer science, I am dedicated to staying up-to-date with the latest advancements in the field and leveraging my analytical expertise to drive innovative solutions.
+Data scientist with a passion for extracting insights from complex datasets, using my skills in machine learning, statistics, and programming languages such as Python and R to drive business growth and improve decision-making processes. <br>With a strong foundation in mathematics and computer science, I am dedicated to staying up-to-date with the latest advancements in the field and leveraging my analytical expertise to drive innovative solutions.
 
 
 # 💻 Tech Stack:
